@@ -2,31 +2,33 @@
 
 # Presentaciones duales de 1º DAM (mañana) del curso 2025 / 2026
 
-Listado con enlaces a los vídeos y normas para las exposiciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) turno de mañana del **CPIFP Alan Turing** (Málaga - PTA) del curso 2025 - 2026.
+Listado con enlaces a los **repositorios** de entrega y normas para las exposiciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) turno de mañana del **CPIFP Alan Turing** (Málaga - PTA) del curso 2025 - 2026.
 
 ## Índice
 
-* [Horario y listado con enlaces al vídeo](#sec-horario)
+* [Listado con enlaces a los repositorios](#sec-horario)
   * [1DAM mañana](#1dam)
     
 * [Duración del vídeo](#sec-tiempo)
 * [Contenido de la presentación](#sec-contenido)
-* [Formato y entrega del vídeo](#sec-formato)
+* [Formato y entrega](#sec-formato)
 * [Modalidad de la exposición](#sec-modalidad)
 
 <a id="sec-horario"></a>
 
-## Horario y listado con enlaces al vídeo
+## Listado con enlaces a los repositorios
 
-Cada alumno debe publicar en este repositorio un **enlace al vídeo** de su exposición, que cumpla los requisitos de [contenido](#sec-contenido), [duración del vídeo](#sec-tiempo) y [formato](#sec-formato). Puede añadir cualquier otra información que considere relevante (por ejemplo, notas o material de apoyo en el mismo repositorio).
+Cada alumno debe publicar en la tabla de abajo el **enlace al repositorio de entrega** (por ejemplo en GitHub), donde el **profesorado** encontrará lo necesario para evaluar la estancia en prácticas. Ese repositorio debe cumplir lo indicado en [formato y entrega](#sec-formato); el **vídeo** de la exposición debe cumplir [contenido](#sec-contenido) y [duración](#sec-tiempo).
+
+Si **varios alumnos están en la misma empresa**, **comparten un solo repositorio**: en la tabla pueden figurar **la misma URL** en todas sus filas. Aun así, en el `README.md` (o en la estructura del repo) debe quedar **muy claro** qué corresponde a **cada persona**: enlace al **vídeo de la exposición de cada uno** y **descripción de la actividad de cada uno** en prácticas (tareas, temporalización, aportación individual, etc.), además de lo común a la empresa.
 
 ### 1DAM
 
-La **fecha límite** para publicar en la tabla el enlace a tu vídeo la indicará tu **tutor de la formación dual** (o el departamento) en clase o por los canales habituales del curso.
+La **fecha límite** para publicar en la tabla el enlace al repositorio la indicará tu **tutor de la formación dual** (o el departamento) en clase o por los canales habituales del curso.
 
-Cuando tengas el vídeo listo, **sustituye** en tu fila la palabra *pendiente* por el **enlace** (URL) al vídeo o a la lista de reproducción; debe abrirse al hacer clic.
+Cuando el repositorio esté listo, **sustituye** en tu fila la palabra *pendiente* por la **URL del repositorio** (idealmente la raíz del repo, para que se vea el `README.md` al abrir el enlace). Si compartís repositorio por empresa, **todas las filas afectadas** pueden llevar **el mismo enlace**, siempre que en el repo se distinga bien a cada alumno o alumna.
 
-| Alumno/a | Logo | Empresa | Enlace al vídeo |
+| Alumno/a | Logo | Empresa | Enlace al repositorio |
 | :-- | :--: | :-- | :-- |
 | Álvarez Armijo, Marco | <img src="img/oposiciones_caminos.png" height="22" alt="Oposiciones Camino" /> | Oposiciones Camino | *pendiente* |
 | Baena Urbaneja, Juan Manuel | <img src="img/altaid.png" height="32" alt="Altaid Formación" /> | Altaid | *pendiente* |
@@ -42,7 +44,7 @@ Cuando tengas el vídeo listo, **sustituye** en tu fila la palabra *pendiente* p
 | Sánchez Muñoz, Adrián | <img src="img/diverxia.svg" height="18" alt="Diverxia" /> | Diverxia | *pendiente* |
 | Trujillo Rojas, Miguel | <img src="img/ld_quantum.png" height="28" alt="LD Quantum" /> | LD Quantum SL | *pendiente* |
 
-*Alumnos sin exposición en vídeo este curso:* Arias García, Daniel; Jiménez Martín, María de la Paz; Lorenzo Bonilla, Jesús; Parra Moussaif, Ismael; Rodríguez Galiano, Juan Rolando; Sánchez Fernández, Ana Isabel.
+*Alumnos sin entrega de repositorio / exposición este curso:* Arias García, Daniel; Jiménez Martín, María de la Paz; Lorenzo Bonilla, Jesús; Parra Moussaif, Ismael; Rodríguez Galiano, Juan Rolando; Sánchez Fernández, Ana Isabel.
 
 <a id="sec-tiempo"></a>
 
@@ -52,9 +54,9 @@ Los límites de tiempo aplican al **vídeo** (o a la secuencia de vídeos enlaza
 
 Los alumnos de la misma empresa deberán incluir en el vídeo una parte **común** sobre la empresa, de **5 minutos como máximo**. Si solo hay un alumno o alumna en la empresa, deberá incluir igualmente esa parte común. Después, cada uno incluirá una parte **individual** sobre su trabajo de **5 minutos como máximo**. Ahí termina la exposición grabada: **no** hay turno de preguntas ni cierre extra, porque la revisión la hace el profesorado **sin acto presencial**.
 
-El material sobre la empresa (introducción, contexto) puede ser común para todos los alumnos que hayan realizado la formación dual en ella.
+El material sobre la empresa (introducción, contexto) puede ser común para todos los alumnos que hayan realizado la formación dual en ella. Esa parte común y las partes individuales pueden estar en **un solo vídeo largo** o en **varios vídeos**; en cualquier caso, en el `README.md` del repositorio (compartido o no) debe poder localizarse **sin duda** el tramo o el enlace correspondiente a **cada alumno**.
 
-Ejemplo de temporización para el grupo de Luque, Portillo y Rodríguez Espinosa (empresa SweetCode):
+Ejemplo de temporización para el grupo de Luque, Portillo y Rodríguez Espinosa (empresa SweetCode), con **repositorio compartido**:
 
 * Hasta 5 minutos: parte común de SweetCode
 * Hasta 5 minutos: parte individual de Santiago Luque Villanueva
@@ -73,24 +75,29 @@ El vídeo de la exposición debe incluir, como mínimo, el siguiente contenido:
 * Conocimientos adquiridos por cada módulo profesional.
 * Valoración de la experiencia dual por parte del alumno.
 
+En el **`README.md` del repositorio** (especialmente si **varios alumnos comparten repo** por estar en la misma empresa) debe **informarse por escrito la actividad de cada alumno**: qué ha hecho cada uno, en qué periodos y con qué responsabilidades, de modo que el profesor pueda evaluar la estancia de **cada persona** sin ambigüedad. Los enlaces al vídeo de cada uno deben ir **rotulados con el nombre** del alumno o alumna.
+
 <a id="sec-formato"></a>
 
-## Formato y entrega del vídeo
+## Formato y entrega
 
-La exposición se entrega como **vídeo** (un solo enlace o varios enlaces claros y ordenados, por ejemplo uno por bloque: empresa común, parte individual de cada alumno).
+Lo que se publica en la tabla de este repositorio es el **enlace al repositorio de entrega** (público o accesible para el profesorado): puede ser **uno por alumno** o **uno compartido** por todos los alumnos que estén en la **misma empresa**. En el segundo caso, **cada fila de la tabla** puede repetir la **misma URL**.
 
-* El vídeo puede alojarse donde el alumno elija (por ejemplo plataforma educativa del centro, **YouTube** en lista no indexada o **Vimeo** con enlace privado), siempre que **el enlace sea accesible** para que el **profesorado** pueda visionarlo cuando revise la exposición.
-* Se puede utilizar cualquier herramienta para grabar y editar (presentación en pantalla, cámara, voz en off, material multimedia, etc.).
-* En el listado de este repositorio debe figurar tu **nombre** y el **enlace** al vídeo (o a la lista de reproducción).
-* Cualquier material complementario (diapositivas exportadas, guion, anexos) puede enlazarse desde el mismo repositorio si el alumno lo considera útil; no sustituye al vídeo de la exposición.
+Ese repositorio debe contener, como mínimo:
+
+* Un archivo **`README.md` en la raíz** con **toda la información** que el profesor necesite para **evaluar la estancia en prácticas** (contexto, empresa, tareas, temporalización, herramientas, módulos, valoración, etc., según lo pedido en [contenido](#sec-contenido)). Si el repo es **compartido**, el `README` debe organizarse de forma que se vea **por separado** la información y la **actividad en empresa de cada alumno**, además de lo común a la empresa.
+* En ese mismo `README.md`, **un enlace claro al vídeo de la exposición de cada alumno** (o a listas de reproducción si el vídeo va en varias partes), **identificado con el nombre** de la persona. El vídeo puede alojarse fuera del repo (**YouTube** no listado, **Vimeo**, plataforma del centro, etc.), pero **debe enlazarse desde el `README.md`** del repositorio de entrega.
+* **Cualquier otro material** que quiera mostrar el alumno (diapositivas, PDF, imágenes, código de ejemplo, etc.) debe **estar en ese mismo repositorio** (archivos o carpetas dentro del proyecto). El profesorado revisará a partir del repositorio enlazado, no de copias locales que no estén subidas.
+
+El vídeo debe respetar la [duración](#sec-tiempo) indicada (parte común de empresa y partes individuales). Se puede utilizar la herramienta que prefieras para grabarlo y editarlo.
 
 <a id="sec-modalidad"></a>
 
 ## Modalidad de la exposición
 
-Las exposiciones son **solo en vídeo**: cada alumno **sube el enlace** en la tabla de este repositorio. **No** hay asistencia presencial al centro para presentar ni **turno de preguntas** en directo.
+Cada alumno **publica en la tabla** el enlace al **repositorio de entrega** (el suyo propio o el **compartido** con compañeros de la misma empresa); **no** hay asistencia presencial al centro para presentar ni **turno de preguntas** en directo.
 
-El **profesorado** revisará los vídeos **de forma no presencial** (en su tiempo, fuera de cualquier sesión con el alumno vinculada a esta entrega), según los criterios y el calendario del departamento.
+El **profesorado** revisará el material **de forma no presencial** (repositorio, `README.md`, vídeos enlazados por alumno y anexos en el repo), en su tiempo y según los criterios y el calendario del departamento.
 
 <hr>
 
