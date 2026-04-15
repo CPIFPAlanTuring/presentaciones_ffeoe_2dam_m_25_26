@@ -18,31 +18,27 @@ Listado con enlaces a los **repositorios** de entrega y normas para las exposici
 
 ## Listado con enlaces a los repositorios
 
-Cada alumno debe publicar en la tabla de abajo el **enlace al repositorio de entrega** (por ejemplo en GitHub), donde el **profesorado** encontrará lo necesario para evaluar la estancia en prácticas. Ese repositorio debe cumplir lo indicado en [formato y entrega](#sec-formato); el **vídeo** de la exposición debe cumplir [contenido](#sec-contenido) y [duración](#sec-tiempo).
+La tabla está **agrupada por empresa**: cada fila es una **empresa** (o centro de prácticas) y la columna **Participantes** recoge a todos los alumnos y alumnas asignados a ella. Debe publicarse el **enlace al repositorio de entrega** (por ejemplo en GitHub), donde el **profesorado** encontrará lo necesario para evaluar las estancias. Ese repositorio debe cumplir lo indicado en [formato y entrega](#sec-formato); los **vídeos** deben cumplir [contenido](#sec-contenido) y [duración](#sec-tiempo).
 
-Si **varios alumnos están en la misma empresa**, **comparten un solo repositorio**: en la tabla pueden figurar **la misma URL** en todas sus filas. Aun así, en el `README.md` (o en la estructura del repo) debe quedar **muy claro** qué corresponde a **cada persona**: enlace al **vídeo de la exposición de cada uno** y **descripción de la actividad de cada uno** en prácticas (tareas, temporalización, aportación individual, etc.), además de lo común a la empresa.
+Si en una empresa hay **varios participantes**, **comparten un solo repositorio** y **una sola URL** en la tabla. En el `README.md` (o en la estructura del repo) debe quedar **muy claro** qué corresponde a **cada persona**: enlace al **vídeo de la exposición de cada uno** y **descripción de la actividad de cada uno** en prácticas (tareas, temporalización, aportación individual, etc.), además de lo común a la empresa.
 
 ### 1DAM
 
 La **fecha límite** para publicar en la tabla el enlace al repositorio la indicará tu **tutor de la formación dual** (o el departamento) en clase o por los canales habituales del curso.
 
-Cuando el repositorio esté listo, **sustituye** en tu fila la palabra *pendiente* por la **URL del repositorio** (idealmente la raíz del repo, para que se vea el `README.md` al abrir el enlace). Si compartís repositorio por empresa, **todas las filas afectadas** pueden llevar **el mismo enlace**, siempre que en el repo se distinga bien a cada alumno o alumna.
+Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la palabra *pendiente* por la **URL del repositorio** (idealmente la raíz del repo, para que se vea el `README.md` al abrir el enlace). Si varios participantes comparten empresa, **cualquiera de ellos** puede actualizar esa celda o coordinarse para que figure un único enlace válido.
 
-| Alumno/a | Logo | Empresa | Enlace al repositorio |
-| :-- | :--: | :-- | :-- |
-| Álvarez Armijo, Marco | <img src="img/oposiciones_caminos.png" height="22" alt="Oposiciones Camino" /> | Oposiciones Camino | *pendiente* |
-| Baena Urbaneja, Juan Manuel | <img src="img/altaid.png" height="32" alt="Altaid Formación" /> | Altaid | *pendiente* |
-| Fernández Rodríguez, Juan Manuel | <img src="img/fixme.png" height="22" alt="FixMe" /> | FixMe | *pendiente* |
-| García Vela, Eliel Jesús | <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | *pendiente* |
-| Gutiérrez Castro, Jazmín | <img src="img/nttdata.svg" height="18" alt="NTT Data" /> | NTT Data | *pendiente* |
-| Gutiérrez Fernández, Adrián | <img src="img/accenture.svg" height="18" alt="Accenture" /> | Accenture | *pendiente* |
-| Luque Villanueva, Santiago | <img src="img/sweetcode.svg" height="22" alt="SweetCode" /> | SweetCode | *pendiente* |
-| Pagola Del Pino, Víctor | <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | *pendiente* |
-| Portillo Guerrero, Curro | <img src="img/sweetcode.svg" height="22" alt="SweetCode" /> | SweetCode | *pendiente* |
-| Rodríguez Espinosa, Sergio | <img src="img/sweetcode.svg" height="22" alt="SweetCode" /> | SweetCode | *pendiente* |
-| Ruiz Martín, Samuel | <img src="img/ld_quantum.png" height="28" alt="LD Quantum" /> | LD Quantum SL | *pendiente* |
-| Sánchez Muñoz, Adrián | <img src="img/diverxia.svg" height="18" alt="Diverxia" /> | Diverxia | *pendiente* |
-| Trujillo Rojas, Miguel | <img src="img/ld_quantum.png" height="28" alt="LD Quantum" /> | LD Quantum SL | *pendiente* |
+| Logo | Empresa | Participantes | Enlace al repositorio |
+| :--: | :-- | :-- | :-- |
+| <img src="img/accenture.svg" height="18" alt="Accenture" /> | Accenture | Gutiérrez Fernández, Adrián | *pendiente* |
+| <img src="img/altaid.png" height="32" alt="Altaid Formación" /> | Altaid | Baena Urbaneja, Juan Manuel | *pendiente* |
+| <img src="img/diverxia.svg" height="18" alt="Diverxia" /> | Diverxia | Sánchez Muñoz, Adrián | *pendiente* |
+| <img src="img/fixme.png" height="22" alt="FixMe" /> | FixMe | Fernández Rodríguez, Juan Manuel | *pendiente* |
+| <img src="img/ld_quantum.png" height="28" alt="LD Quantum" /> | LD Quantum SL | Ruiz Martín, Samuel<br>Trujillo Rojas, Miguel | *pendiente* |
+| <img src="img/nttdata.svg" height="18" alt="NTT Data" /> | NTT Data | Gutiérrez Castro, Jazmín | *pendiente* |
+| <img src="img/oposiciones_caminos.png" height="22" alt="Oposiciones Camino" /> | Oposiciones Camino | Álvarez Armijo, Marco | *pendiente* |
+| <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | García Vela, Eliel Jesús<br>Pagola Del Pino, Víctor | *pendiente* |
+| <img src="img/sweetcode.svg" height="22" alt="SweetCode" /> | SweetCode | Luque Villanueva, Santiago<br>Portillo Guerrero, Curro<br>Rodríguez Espinosa, Sergio | *pendiente* |
 
 *Alumnos sin entrega de repositorio / exposición este curso:* Arias García, Daniel; Jiménez Martín, María de la Paz; Lorenzo Bonilla, Jesús; Parra Moussaif, Ismael; Rodríguez Galiano, Juan Rolando; Sánchez Fernández, Ana Isabel.
 
@@ -81,7 +77,7 @@ En el **`README.md` del repositorio** (especialmente si **varios alumnos compart
 
 ## Formato y entrega
 
-Lo que se publica en la tabla de este repositorio es el **enlace al repositorio de entrega** (público o accesible para el profesorado): puede ser **uno por alumno** o **uno compartido** por todos los alumnos que estén en la **misma empresa**. En el segundo caso, **cada fila de la tabla** puede repetir la **misma URL**.
+En la tabla de este repositorio hay **una fila por empresa** y un solo campo de **enlace al repositorio de entrega** (público o accesible para el profesorado). Si la empresa tiene **varios participantes**, todos usan **ese mismo enlace** a un repositorio compartido.
 
 Ese repositorio debe contener, como mínimo:
 
@@ -95,7 +91,7 @@ El vídeo debe respetar la [duración](#sec-tiempo) indicada (parte común de em
 
 ## Modalidad de la exposición
 
-Cada alumno **publica en la tabla** el enlace al **repositorio de entrega** (el suyo propio o el **compartido** con compañeros de la misma empresa); **no** hay asistencia presencial al centro para presentar ni **turno de preguntas** en directo.
+El enlace al **repositorio de entrega** se publica en la **fila de la empresa** en esta tabla (repositorio único por empresa, compartido si hay varios participantes); **no** hay asistencia presencial al centro para presentar ni **turno de preguntas** en directo.
 
 El **profesorado** revisará el material **de forma no presencial** (repositorio, `README.md`, vídeos enlazados por alumno y anexos en el repo), en su tiempo y según los criterios y el calendario del departamento.
 
