@@ -38,6 +38,8 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/AngelsCaring.jpeg" height="18" alt="Angels Caring" /> | Angels Caring | Cristóbal Gómez, Hugo de | *pendiente* |
 | <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Diáñez Gómez, Guillermo | *pendiente* |
 | <img src="img/viewnext.jpeg" height="22" alt="ViewNext" /> | ViewNext | Domínguez González, José Antonio<br>Jiménez Muñoz, Álvaro | *pendiente* |
+| <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | Faura Martín, Lucas<br>González Ortiz, María del Rosario | *pendiente* |
+| <img src="img/ldquantum.jpeg" height="22" alt="LD Quantum" /> | LD Quantum | García Luque, Mario<br>García Ruiz, Samuel | *pendiente* |
 | <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Salvador | López González, Jose María | *pendiente* |
 | <img src="img/NTT.png" height="22" alt="NTT-Data" /> | NTT-Data | Mora Mata, Ángela | *pendiente* |
 | <img src="img/sipadan.png" height="22" alt="Sipadan" /> | Sipadan | Salces Alcaraz, Antonio | *pendiente* |
