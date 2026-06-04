@@ -36,7 +36,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/erasmusplus.jpg" height="22" alt="Erasmus" /> | Erasmus+ | Cano Jiménez, Antonio Lorenzo<br>Romero Maldonado, Adrián | *pendiente* |
 | <img src="img/PROPERLY.png" height="28" alt="Properly" /> | Properly | Cobo Sánchez, Francisco de Asís | *pendiente* |
 | <img src="img/AngelsCaring.jpeg" height="18" alt="Angels Caring" /> | Angels Caring | Cristóbal Gómez, Hugo de | *pendiente* |
-| <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Diáñez Gómez, Guillermo | [UMA] (https://github.com/therabbithd/entregadual2026) |
+| <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Diáñez Gómez, Guillermo | [UMA](https://github.com/therabbithd/entregadual2026) |
 | <img src="img/viewnext.jpeg" height="22" alt="ViewNext" /> | ViewNext | Domínguez González, José Antonio<br>Jiménez Muñoz, Álvaro | https://github.com/Almucero/Dual-ViewNext-2DAM |
 | <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | Faura Martín, Lucas<br>González Ortiz, María del Rosario | https://github.com/RosarioGonzalez06/Practicas-Accenture-2-DAM-2025-2026 |
 | <img src="img/ldquantum.jpeg" height="22" alt="LD Quantum" /> | LD Quantum | García Luque, Mario<br>García Ruiz, Samuel | https://github.com/Mariogarluu/Exposicion-Ld-Quantum |
