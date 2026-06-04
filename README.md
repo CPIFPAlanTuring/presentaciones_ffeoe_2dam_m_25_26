@@ -31,19 +31,19 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | Logo | Empresa | Participantes | Enlace al repositorio |
 | :--: | :-- | :-- | :-- |
 | <img src="img/IUITLM.png" height="18" alt="Accenture" /> | IUITLM - UMA | Ballesteros Martínez, Javier<br>Maldonado Triana, Alberto  | [IUITLM UMA](https://github.com/albertoomaldonadoo/IUITLM-UMA-FFEOE-2DAM) |
-| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ | Bueno González, Salvador | https://github.com/sbuegonz00/Presentacion_Practicas_Erasmus_SalvadorBuenoGonzalez |
+| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ | Bueno González, Salvador | [Erasmus+]https://github.com/sbuegonz00/Presentacion_Practicas_Erasmus_SalvadorBuenoGonzalez |
 | <img src="img/aliqindoi.png" height="18" alt="Aliqindoi" /> | Aliqindoi | Butrii, Sergii | [Aliqindoi](https://github.com/Sergiibut05/Presentaci-n-Dual-Aliqindoi-2DAM-Sergii-Butrii) |
-| <img src="img/erasmusplus.jpg" height="22" alt="Erasmus" /> | Erasmus+ | Cano Jiménez, Antonio Lorenzo<br>Romero Maldonado, Adrián | *pendiente* |
+| <img src="img/erasmusplus.jpg" height="22" alt="Erasmus" /> | Erasmus+ | Cano Jiménez, Antonio Lorenzo<br>Romero Maldonado, Adrián | [Erasmus+ Alemania](https://github.com/roomeroo/presentacion_ffeoe_2dam_m_25_26) |
 | <img src="img/PROPERLY.png" height="28" alt="Properly" /> | Properly | Cobo Sánchez, Francisco de Asís | *pendiente* |
 | <img src="img/AngelsCaring.jpeg" height="18" alt="Angels Caring" /> | Angels Caring | Cristóbal Gómez, Hugo de | *pendiente* |
 | <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Diáñez Gómez, Guillermo | [UMA](https://github.com/therabbithd/entregadual2026) |
-| <img src="img/viewnext.jpeg" height="22" alt="ViewNext" /> | ViewNext | Domínguez González, José Antonio<br>Jiménez Muñoz, Álvaro | https://github.com/Almucero/Dual-ViewNext-2DAM |
-| <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | Faura Martín, Lucas<br>González Ortiz, María del Rosario | https://github.com/RosarioGonzalez06/Practicas-Accenture-2-DAM-2025-2026 |
-| <img src="img/ldquantum.jpeg" height="22" alt="LD Quantum" /> | LD Quantum | García Luque, Mario<br>García Ruiz, Samuel | https://github.com/Mariogarluu/Exposicion-Ld-Quantum |
+| <img src="img/viewnext.jpeg" height="22" alt="ViewNext" /> | ViewNext | Domínguez González, José Antonio<br>Jiménez Muñoz, Álvaro | [ViewNext]https://github.com/Almucero/Dual-ViewNext-2DAM |
+| <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | Faura Martín, Lucas<br>González Ortiz, María del Rosario | [Accenture]https://github.com/RosarioGonzalez06/Practicas-Accenture-2-DAM-2025-2026 |
+| <img src="img/ldquantum.jpeg" height="22" alt="LD Quantum" /> | LD Quantum | García Luque, Mario<br>García Ruiz, Samuel | [LD-Quantum]https://github.com/Mariogarluu/Exposicion-Ld-Quantum |
 | <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Salvador | López González, Jose María | https://github.com/canlol3/Presentacion-Dual-Jos-Mar-a-2DAM |
-| <img src="img/NTT.png" height="22" alt="NTT-Data" /> | NTT-Data | Mora Mata, Ángela | https://github.com/angela1006/PracticasDual-NTTData-2025-2026 |
+| <img src="img/NTT.png" height="22" alt="NTT-Data" /> | NTT-Data | Mora Mata, Ángela | [NTT-Data]https://github.com/angela1006/PracticasDual-NTTData-2025-2026 |
 | <img src="img/sipadan.png" height="22" alt="Sipadan" /> | Sipadan | Salces Alcaraz, Antonio | *pendiente* |
-| <img src="img/silice.jpg" height="22" alt="Sílice" /> | Sílice | Vargas Berrocal, Ezequiel | https://github.com/Ezequielvb/Presentacion-Dual-SILICE |
+| <img src="img/silice.jpg" height="22" alt="Sílice" /> | Sílice | Vargas Berrocal, Ezequiel | [Silice]https://github.com/Ezequielvb/Presentacion-Dual-SILICE |
 
 <a id="sec-tiempo"></a>
 
