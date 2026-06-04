@@ -32,7 +32,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | :--: | :-- | :-- | :-- |
 | <img src="img/IUITLM.png" height="18" alt="Accenture" /> | IUITLM - UMA | Ballesteros Martínez, Javier<br>Maldonado Triana, Alberto  | [IUITLM UMA](https://github.com/albertoomaldonadoo/IUITLM-UMA-FFEOE-2DAM) |
 | <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ | Bueno González, Salvador | https://github.com/sbuegonz00/Presentacion_Practicas_Erasmus_SalvadorBuenoGonzalez |
-| <img src="img/aliqindoi.png" height="18" alt="Aliqindoi" /> | Aliqindoi | Butrii, Sergii | *pendiente* |
+| <img src="img/aliqindoi.png" height="18" alt="Aliqindoi" /> | Aliqindoi | Butrii, Sergii | [Aliqindoi](https://github.com/Sergiibut05/Presentaci-n-Dual-Aliqindoi-2DAM-Sergii-Butrii) |
 | <img src="img/erasmusplus.jpg" height="22" alt="Erasmus" /> | Erasmus+ | Cano Jiménez, Antonio Lorenzo<br>Romero Maldonado, Adrián | *pendiente* |
 | <img src="img/PROPERLY.png" height="28" alt="Properly" /> | Properly | Cobo Sánchez, Francisco de Asís | *pendiente* |
 | <img src="img/AngelsCaring.jpeg" height="18" alt="Angels Caring" /> | Angels Caring | Cristóbal Gómez, Hugo de | *pendiente* |
