@@ -39,9 +39,9 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Diáñez Gómez, Guillermo | *pendiente* |
 | <img src="img/viewnext.jpeg" height="22" alt="ViewNext" /> | ViewNext | Domínguez González, José Antonio<br>Jiménez Muñoz, Álvaro | *pendiente* |
 | <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | Faura Martín, Lucas<br>González Ortiz, María del Rosario | https://github.com/RosarioGonzalez06/Practicas-Accenture-2-DAM-2025-2026 |
-| <img src="img/ldquantum.jpeg" height="22" alt="LD Quantum" /> | LD Quantum | García Luque, Mario<br>García Ruiz, Samuel | [*LdQuantum*](https://github.com/Mariogarluu/Exposicion-Ld-Quantum) |
-| <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Salvador | López González, Jose María | *pendiente* |
-| <img src="img/NTT.png" height="22" alt="NTT-Data" /> | NTT-Data | Mora Mata, Ángela | https://github.com/angela1006/PracticasDual-NTTData-2025-2026 |
+| <img src="img/ldquantum.jpeg" height="22" alt="LD Quantum" /> | LD Quantum | García Luque, Mario<br>García Ruiz, Samuel | *pendiente* |
+| <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Salvador | López González, Jose María | https://github.com/canlol3/Presentacion-Dual-Jos-Mar-a-2DAM |
+| <img src="img/NTT.png" height="22" alt="NTT-Data" /> | NTT-Data | Mora Mata, Ángela | *pendiente* |
 | <img src="img/sipadan.png" height="22" alt="Sipadan" /> | Sipadan | Salces Alcaraz, Antonio | *pendiente* |
 | <img src="img/silice.jpg" height="22" alt="Sílice" /> | Sílice | Vargas Berrocal, Ezequiel | *pendiente* |
 
