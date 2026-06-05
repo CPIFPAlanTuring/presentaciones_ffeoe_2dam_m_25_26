@@ -42,7 +42,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/ldquantum.jpeg" height="22" alt="LD Quantum" /> | LD Quantum | García Luque, Mario<br>García Ruiz, Samuel | [LD-Quantum](https://github.com/Mariogarluu/Exposicion-Ld-Quantum) |
 | <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Salvador | López González, Jose María | [Panadería Salvador](https://github.com/canlol3/Presentacion-Dual-Jos-Mar-a-2DAM) |
 | <img src="img/NTT.png" height="22" alt="NTT-Data" /> | NTT-Data | Mora Mata, Ángela | [NTT-Data](https://github.com/angela1006/PracticasDual-NTTData-2025-2026) |
-| <img src="img/sipadan.png" height="22" alt="Sipadan" /> | Sipadan | Salces Alcaraz, Antonio | *pendiente* |
+| <img src="img/sipadan.png" height="22" alt="Sipadan" /> | Sipadan | Salces Alcaraz, Antonio | [SIPADAN](https://github.com/AntonioSalces/presentacion-ffeoe-sipadan) |
 | <img src="img/silice.jpg" height="22" alt="Sílice" /> | Sílice | Vargas Berrocal, Ezequiel | [Silice](https://github.com/Ezequielvb/Presentacion-Dual-SILICE) |
 
 <a id="sec-tiempo"></a>
